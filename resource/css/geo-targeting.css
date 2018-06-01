@@ -1,0 +1,39 @@
+.min-geo-targeting {
+    border-top: 1px solid #84c184;
+    border-bottom: 1px solid #4EA04E;
+    padding: 12px 10px;
+    background: #fcf7cf;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,#fcf7cf 0,#efe7b8 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fcf7cf),color-stop(100%,#efe7b8));
+    background: -webkit-linear-gradient(top,#fcf7cf 0,#efe7b8 100%);
+    background: -o-linear-gradient(top,#fcf7cf 0,#efe7b8 100%);
+    background: -ms-linear-gradient(top,#fcf7cf 0,#efe7b8 100%);
+    background: linear-gradient(to bottom,#fcf7cf 0,#efe7b8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcf7cf',endColorstr='#efe7b8',GradientType=0 );
+}
+
+.min-geo-targeting .f1 {
+    margin-top: 4px;
+    font-size: 15px;
+}
+
+.min-geo-targeting br {
+    display: none;
+}
+
+.min-geo-targeting b,
+.min-geo-targeting strong {
+    color: #005E00;
+}
+
+.min-geo-targeting.targeting-max {
+    padding: 20px 25px !important;
+    border: 1px solid #eee;
+    background: #F2F2F2;
+    display: inline-block;
+    width: 100%;
+}
+.min-geo-targeting.targeting-max .fl {
+    float: left;
+}
